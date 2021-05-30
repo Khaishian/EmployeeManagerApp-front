@@ -1,4 +1,5 @@
 # Employeemanagerapp
+An app following amigoscode tutorial for angular + spring boot.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
